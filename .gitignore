@@ -1,0 +1,17 @@
+# Archivos y carpetas generadas por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Archivos de configuración de Visual Studio
+*.csproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.tmp
+*.pdb
